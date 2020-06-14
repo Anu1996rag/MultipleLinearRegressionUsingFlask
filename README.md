@@ -1,7 +1,7 @@
 # MultipleLinearRegressionUsingFlask
 
-This is a simple project to elaborate how to deploy a Machine Learning model using Flask API
-<a href="https://github.com/Anu1996rag/MultipleLinearRegressionUsingFlask/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Anu1996rag/MultipleLinearRegressionUsingFlask?style=social"></a>
+This is a simple project to elaborate how to deploy a Machine Learning model using Flask API <br/><br/>
+<a href="https://github.com/Anu1996rag/MultipleLinearRegressionUsingFlask/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Anu1996rag/MultipleLinearRegressionUsingFlask"></a>><br/>
 Project Structure
 This project has four major parts :
 
