@@ -4,19 +4,19 @@ This is a simple project to elaborate how to deploy a Machine Learning model usi
 Project Structure
 This project has four major parts :
 
-Multiple_Linear_Regression_Wine_Quality.ipynb - 
+1.Multiple_Linear_Regression_Wine_Quality.ipynb - <br/>
 This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'winequality-red.csv' file.
 
-app.py -
+2.app.py -
 This contains Flask APIs that receives employee details through GUI or API calls, computes the predicted value based on our model and returns it.
 
-regresssion_model.pkl -
+3.regresssion_model.pkl -
 This is a pickle file which contains the trained model of multiple linear regression on wine quality data.
 
-templates - 
+4.templates - 
 This folder contains the HTML template (index.html) to allow user to enter employee detail and displays the predicted employee salary.
 
-static - 
+5.static - 
 This folder contains the css folder with style.css and js files (with .js extensions) which has the styling required for out index.html file.
 
 ### Running the project
