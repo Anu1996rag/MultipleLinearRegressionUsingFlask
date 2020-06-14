@@ -1,5 +1,5 @@
 # MultipleLinearRegressionUsingFlask
-(https://img.shields.io/badge/python-3.5-yellow.svg)](https://shields.io/)
+(https://img.shields.io/badge/python-3.5-yellow.svg)(https://shields.io/)<br/>
 This is a simple project to elaborate how to deploy a Machine Learning model using Flask API
 
 Project Structure
