@@ -1,9 +1,8 @@
 # MultipleLinearRegressionUsingFlask
 
 This is a simple project to elaborate how to deploy a Machine Learning model using Flask API <br/><br/>
-<a href="https://github.com/Anu1996rag/MultipleLinearRegressionUsingFlask/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Anu1996rag/MultipleLinearRegressionUsingFlask"></a>><br/>
-Project Structure
-This project has four major parts :
+
+This project has four major parts :<br/>
 
 1.Multiple_Linear_Regression_Wine_Quality.ipynb - <br/>
 This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'winequality-red.csv' file.
