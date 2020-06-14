@@ -22,14 +22,14 @@ This folder contains the css folder with style.css and js files (with .js extens
 ### Running the project
 
 Run app.py using below command to start Flask API
-                python app.py
+      `python app.py`
 By default, flask will run on port 5000.
 
 ### For Output : 
 Navigate to URL http://127.0.0.1:5000/ (or) http://localhost:5000
 You should be able to view the homepage.
 
-Enter valid numerical values in all the input boxes and hit Predict Quality.
+Enter valid numerical values in all the input boxes and hit **Predict Quality**.
 
 If everything goes well, you should be able to see the predicted quality value on the same HTML page! 
 Scroll down a little bit to see the output.
