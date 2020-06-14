@@ -2,6 +2,8 @@
 
 This is a simple project to elaborate how to deploy a Machine Learning model using Flask API
 
+https://img.shields.io/github/stars/Anu1996rag/MultipleLinearRegressionUsingFlask?style=social
+
 Project Structure
 This project has four major parts :
 
