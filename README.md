@@ -22,7 +22,7 @@ This folder contains the css folder with style.css and js files (with .js extens
 ### Running the project
 
 Run app.py using below command to start Flask API
-    python app.py
+                python app.py
 By default, flask will run on port 5000.
 
 ### For Output : 
