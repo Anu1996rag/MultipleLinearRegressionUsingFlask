@@ -35,3 +35,10 @@ If everything goes well, you should be able to see the predicted quality value o
 Scroll down a little bit to see the output.<br/>
 It is displayed below the Predict Quality button.<br/>
 To confirm , make sure you see this URL in the address bar: http://127.0.0.1:5000/predict
+
+#### Home Page ####
+![Home Page](https://github.com/Anu1996rag/MultipleLinearRegressionUsingFlask/blob/master/Output.PNG "Home Page")
+
+#### Output ####
+![Output] (https://github.com/Anu1996rag/MultipleLinearRegressionUsingFlask/blob/master/Output.PNG "Output")
+
